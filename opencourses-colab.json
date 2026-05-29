@@ -1,0 +1,96 @@
+{
+  "schema_version": "opencourses.colab.v1",
+  "course_id": "cmppkcay600003608lrr3ieex",
+  "title": "Modelos de difusion para IA generativa",
+  "source_hash": "7da807f1307d49375aba690c7f599df52eae3668698ec5c7c59a7090b1545b97",
+  "repo_owner": "opencourses-ai-colab",
+  "repo_name": "opencourse-modelos-de-difusion-para-ia-generativa-2",
+  "branch": "main",
+  "generated_at": "2026-05-29T06:26:02.339Z",
+  "notebooks": [
+    {
+      "unit_id": "cmppkcb5j0002360854wub6iu",
+      "external_unit_id": "00_distribuciones_de_datos_y_modelado_generativo",
+      "title": "Distribuciones de datos y modelado generativo",
+      "path": "notebooks/00_distribuciones_de_datos_y_modelado_generativo.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/00_distribuciones_de_datos_y_modelado_generativo.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb6u00043608gnaajnrd",
+      "external_unit_id": "01_ruido_gaussiano_y_espacios_de_datos",
+      "title": "Ruido gaussiano y espacios de datos",
+      "path": "notebooks/01_ruido_gaussiano_y_espacios_de_datos.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/01_ruido_gaussiano_y_espacios_de_datos.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb7100063608y8mb3jnm",
+      "external_unit_id": "02_procesos_de_difusion_directa",
+      "title": "Procesos de difusion directa",
+      "path": "notebooks/02_procesos_de_difusion_directa.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/02_procesos_de_difusion_directa.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb7900083608qalkfp8x",
+      "external_unit_id": "03_denoising_y_objetivos_de_entrenamiento",
+      "title": "Denoising y objetivos de entrenamiento",
+      "path": "notebooks/03_denoising_y_objetivos_de_entrenamiento.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/03_denoising_y_objetivos_de_entrenamiento.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb7h000a3608gw4lalid",
+      "external_unit_id": "04_modelo_ddpm_no_condicional_prediccion_ruido",
+      "title": "Modelo DDPM no condicional para prediccion de ruido",
+      "path": "notebooks/04_modelo_ddpm_no_condicional_prediccion_ruido.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/04_modelo_ddpm_no_condicional_prediccion_ruido.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb7p000c36087af1nbfg",
+      "external_unit_id": "05_muestreo_iterativo_y_evaluacion_cualitativa",
+      "title": "Muestreo iterativo y evaluacion cualitativa",
+      "path": "notebooks/05_muestreo_iterativo_y_evaluacion_cualitativa.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/05_muestreo_iterativo_y_evaluacion_cualitativa.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb7y000e36080vq3izub",
+      "external_unit_id": "06_mezclas_de_distribuciones_y_estructura_semantica",
+      "title": "Mezclas de distribuciones y estructura semantica",
+      "path": "notebooks/06_mezclas_de_distribuciones_y_estructura_semantica.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/06_mezclas_de_distribuciones_y_estructura_semantica.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb86000g3608o756q2aw",
+      "external_unit_id": "07_modelos_de_difusion_condicionales",
+      "title": "Modelos de difusion condicionales",
+      "path": "notebooks/07_modelos_de_difusion_condicionales.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/07_modelos_de_difusion_condicionales.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb8f000i3608jvsi6i9d",
+      "external_unit_id": "08_classifier_free_guidance",
+      "title": "Classifier-free guidance",
+      "path": "notebooks/08_classifier_free_guidance.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/08_classifier_free_guidance.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb8n000k3608klubog07",
+      "external_unit_id": "09_score_matching_e_intuicion_geometrica",
+      "title": "Score matching e intuicion geometrica",
+      "path": "notebooks/09_score_matching_e_intuicion_geometrica.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/09_score_matching_e_intuicion_geometrica.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb8v000m3608a2f5p1zm",
+      "external_unit_id": "10_flow_matching_y_transporte_de_probabilidad",
+      "title": "Flow matching y transporte de probabilidad",
+      "path": "notebooks/10_flow_matching_y_transporte_de_probabilidad.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/10_flow_matching_y_transporte_de_probabilidad.ipynb"
+    },
+    {
+      "unit_id": "cmppkcb93000o3608a105kgcb",
+      "external_unit_id": "11_espacios_latentes_y_arquitecturas_generativas_modernas",
+      "title": "Espacios latentes y arquitecturas generativas modernas",
+      "path": "notebooks/11_espacios_latentes_y_arquitecturas_generativas_modernas.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-modelos-de-difusion-para-ia-generativa-2/blob/main/notebooks/11_espacios_latentes_y_arquitecturas_generativas_modernas.ipynb"
+    }
+  ]
+}
