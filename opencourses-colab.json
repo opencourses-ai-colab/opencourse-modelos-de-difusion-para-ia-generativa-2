@@ -2,11 +2,11 @@
   "schema_version": "opencourses.colab.v1",
   "course_id": "cmppkcay600003608lrr3ieex",
   "title": "Modelos de difusion para IA generativa",
-  "source_hash": "7da807f1307d49375aba690c7f599df52eae3668698ec5c7c59a7090b1545b97",
+  "source_hash": "b9d4c1e096a694a965977e6ba8bcc89c436b4124787425afe14d6b9dd9e64b04",
   "repo_owner": "opencourses-ai-colab",
   "repo_name": "opencourse-modelos-de-difusion-para-ia-generativa-2",
   "branch": "main",
-  "generated_at": "2026-05-29T06:26:02.339Z",
+  "generated_at": "2026-05-29T06:47:11.532Z",
   "notebooks": [
     {
       "unit_id": "cmppkcb5j0002360854wub6iu",
